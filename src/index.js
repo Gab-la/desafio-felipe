@@ -1,4 +1,4 @@
-let nivelHeroi = 999999
+let nivelHeroi = 99999
 let rankHeroi
 let nomeHeroi = "Gabriel do Js"
 
